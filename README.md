@@ -25,6 +25,7 @@
 
 ## Jupyter Notebook 
 
+- [alexeygrigorev/mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) - The code from the Machine Learning Bookcamp book and a free course based on the book
 - [maria-antoniak/goodreads-scraper](https://github.com/maria-antoniak/goodreads-scraper) - A Python scraper for Goodreads books and reviews.
 - [pipegalera/Goodreads-webscraper](https://github.com/pipegalera/Goodreads-webscraper) - 📗📕📘 A Goodread.com python script and notebook to collect book data from Goodreads.
 
