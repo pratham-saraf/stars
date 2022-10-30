@@ -21,7 +21,7 @@
 - [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
 - [Mehdi-BHA/Awesomefolio](https://github.com/Mehdi-BHA/Awesomefolio) - A modern react portfolio
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
-- [harrykanani/PortfolioV2](https://github.com/harrykanani/PortfolioV2) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
+- [harikanani/PortfolioV2](https://github.com/harikanani/PortfolioV2) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 
 ## Jupyter Notebook 
 
