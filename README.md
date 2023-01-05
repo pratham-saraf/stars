@@ -32,7 +32,6 @@
 
 ## Others 
 
-- [vedant-204/sleepis](https://github.com/vedant-204/sleepis) - 
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 
