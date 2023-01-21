@@ -10,6 +10,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Others](#others)
 - [Python](#python)
+- [Shell](#shell)
 - [TypeScript](#typescript)
 
 ## CSS 
@@ -40,6 +41,10 @@
 - [kshgrk/yt-category-predictor](https://github.com/kshgrk/yt-category-predictor) - 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+
+## Shell 
+
+- [peej/lumberjack-keyboard](https://github.com/peej/lumberjack-keyboard) - 5x12 ortholinear through-hole component keyboard PCB for standard 60% cases
 
 ## TypeScript 
 
