@@ -22,7 +22,7 @@
 - [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
 - [Mehdi-BHA/Awesomefolio](https://github.com/Mehdi-BHA/Awesomefolio) - A modern react portfolio
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
-- [harikanani/PortfolioV2](https://github.com/harikanani/PortfolioV2) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
+- [harikanani/harikanani.github.io](https://github.com/harikanani/harikanani.github.io) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 
 ## Jupyter Notebook 
 
@@ -38,7 +38,7 @@
 
 ## Python 
 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - In-Database Machine Learning
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - An emerging platform to help developers build #AI solutions
 - [kshgrk/yt-category-predictor](https://github.com/kshgrk/yt-category-predictor) - 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
