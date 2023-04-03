@@ -38,7 +38,7 @@
 
 ## Python 
 
-- [fostiropoulos/GoDeepOrGoHome](https://github.com/fostiropoulos/GoDeepOrGoHome) - 
+- [fostiropoulos/Album-Cover-GAN](https://github.com/fostiropoulos/Album-Cover-GAN) - 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
 - [kshgrk/yt-category-predictor](https://github.com/kshgrk/yt-category-predictor) - 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
