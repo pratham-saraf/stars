@@ -39,7 +39,7 @@
 
 ## Python 
 
-- [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [fostiropoulos/Album-Cover-GAN](https://github.com/fostiropoulos/Album-Cover-GAN) - 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
 - [kshgrk/yt-category-predictor](https://github.com/kshgrk/yt-category-predictor) - 
