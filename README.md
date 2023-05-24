@@ -41,7 +41,7 @@
 
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [fostiropoulos/Album-Cover-GAN](https://github.com/fostiropoulos/Album-Cover-GAN) - 
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Hub for serving Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
 - [kshgrk/yt-category-predictor](https://github.com/kshgrk/yt-category-predictor) - 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
