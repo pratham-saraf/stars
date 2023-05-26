@@ -26,6 +26,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [pratham-saraf/Self-Driving-Car-Simulator](https://github.com/pratham-saraf/Self-Driving-Car-Simulator) - This code utilises the data collected using car simulator(https://github.com/udacity/self-driving-car-sim) to train a CNN model to learn to auto drive a car on the track
 - [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
 - [alexeygrigorev/mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) - The code from the Machine Learning Bookcamp book and a free course based on the book
@@ -39,6 +40,7 @@
 
 ## Python 
 
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - Build and run useful autonomous agents
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [fostiropoulos/Album-Cover-GAN](https://github.com/fostiropoulos/Album-Cover-GAN) - 
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
