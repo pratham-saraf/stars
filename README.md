@@ -11,7 +11,6 @@
 - [Others](#others)
 - [Python](#python)
 - [Shell](#shell)
-- [TypeScript](#typescript)
 
 ## CSS 
 
@@ -20,7 +19,7 @@
 ## JavaScript 
 
 - [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
-- [Mehdi-BHA/mehdibha.com](https://github.com/Mehdi-BHA/mehdibha.com) - My personal website made with React and Next.js
+- [Mehdi-BHA/notionfolio](https://github.com/Mehdi-BHA/notionfolio) - Make your own portfolio + Notion-powered blog in minutes with Next.js and Vercel.
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [harikanani/harikanani.github.io](https://github.com/harikanani/harikanani.github.io) - 🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.
 
@@ -51,10 +50,6 @@
 ## Shell 
 
 - [peej/lumberjack-keyboard](https://github.com/peej/lumberjack-keyboard) - 5x12 ortholinear through-hole component keyboard PCB for standard 60% cases
-
-## TypeScript 
-
-- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 
 
 ## License
