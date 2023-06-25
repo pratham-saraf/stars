@@ -31,7 +31,7 @@
 ## Jupyter Notebook 
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [pratham-saraf/Self-Driving-Car-Simulator](https://github.com/pratham-saraf/Self-Driving-Car-Simulator) - This code utilises the data collected using car simulator(https://github.com/udacity/self-driving-car-sim) to train a CNN model to learn to auto drive a car on the track
+- [pratham-saraf/Self-Driving-Car-Simulator](https://github.com/pratham-saraf/Self-Driving-Car-Simulator) - A Model which simulates SDV
 - [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
 - [alexeygrigorev/mlbookcamp-code](https://github.com/alexeygrigorev/mlbookcamp-code) - The code from the Machine Learning Bookcamp book and a free course based on the book
 - [maria-antoniak/goodreads-scraper](https://github.com/maria-antoniak/goodreads-scraper) - A Python scraper for Goodreads books and reviews.
