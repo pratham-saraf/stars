@@ -16,7 +16,7 @@
 
 ## C++ 
 
-- [nibeditabh/StarPlat](https://github.com/nibeditabh/StarPlat) - 
+- [ashwina/StarPlat](https://github.com/ashwina/StarPlat) - 
 
 ## CSS 
 
