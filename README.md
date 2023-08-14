@@ -60,6 +60,7 @@
 
 ## TypeScript 
 
+- [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt) - 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼
 - [Mehdi-BHA/notionfolio](https://github.com/Mehdi-BHA/notionfolio) - Make your own portfolio + Notion-powered blog in minutes with Next.js and Vercel.
 
 
