@@ -34,7 +34,7 @@
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [pratham-saraf/Self-Driving-Car-Simulator](https://github.com/pratham-saraf/Self-Driving-Car-Simulator) - A Model which simulates SDV
 - [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
-- [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - The code from the Machine Learning Bookcamp book and a free course based on the book
+- [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months!
 - [maria-antoniak/goodreads-scraper](https://github.com/maria-antoniak/goodreads-scraper) - A Python scraper for Goodreads books and reviews.
 - [pipegalera/Goodreads-webscraper](https://github.com/pipegalera/Goodreads-webscraper) - 📗📕📘 A Goodread.com python script and notebook to collect book data from Goodreads.
 
