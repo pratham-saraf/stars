@@ -61,7 +61,7 @@
 
 ## TypeScript 
 
-- [mehdibha/notionfolio](https://github.com/mehdibha/notionfolio) - Make your own personal website with portfolio , blog, courses and more using notion as a CMS, in minutes with Next.js and Vercel.
+- [mehdibha/notionfolio](https://github.com/mehdibha/notionfolio) - Make your own personal website powered by Notion with Next.js and Vercel in minutes. Portfolio, Blog, Courses and more.
 
 
 ## License
