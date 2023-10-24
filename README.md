@@ -31,6 +31,8 @@
 
 ## Jupyter Notebook 
 
+- [ardiya/siamesenetwork-tensorflow](https://github.com/ardiya/siamesenetwork-tensorflow) - Using siamese network to do dimensionality reduction and similar image retrieval
+- [ardiya/checkbox_classification](https://github.com/ardiya/checkbox_classification) - Using Pytorch Deep Learning Framework to classify if image is checked-checkbox, unchecked-checkbox, or others with triplet loss
 - [pratham-saraf/Self-Driving-Car-Simulator](https://github.com/pratham-saraf/Self-Driving-Car-Simulator) - A Model which simulates SDV
 - [NielsRogge/Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) - This repository contains demos I made with the Transformers library by HuggingFace.
 - [DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) - Learn ML engineering for free in 4 months!
