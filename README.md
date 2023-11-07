@@ -9,6 +9,7 @@
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [MDX](#mdx)
 - [Others](#others)
 - [Python](#python)
 - [Shell](#shell)
@@ -39,9 +40,12 @@
 - [maria-antoniak/goodreads-scraper](https://github.com/maria-antoniak/goodreads-scraper) - A Python scraper for Goodreads books and reviews.
 - [pipegalera/Goodreads-webscraper](https://github.com/pipegalera/Goodreads-webscraper) - 📗📕📘 A Goodread.com python script and notebook to collect book data from Goodreads.
 
-## Others 
+## MDX 
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
+## Others 
+
 - [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - A curated list of awesome Deep Learning tutorials, projects and communities.
 
