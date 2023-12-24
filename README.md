@@ -69,7 +69,7 @@
 
 ## TypeScript 
 
-- [mehdibha/notion-portfolio-blog](https://github.com/mehdibha/notion-portfolio-blog) - Make your own personal website powered by Notion with Next.js and Vercel in minutes. Portfolio, Blog, Courses and more.
+- [mehdibha/notion-portfolio-blog](https://github.com/mehdibha/notion-portfolio-blog) - Make your personal website and blog with Nextjs 14, tailwind and Notion.
 
 
 ## License
