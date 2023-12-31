@@ -69,7 +69,7 @@
 
 ## TypeScript 
 
-- [mehdibha/notion-portfolio-blog](https://github.com/mehdibha/notion-portfolio-blog) - Make your personal website and blog with Nextjs 14, tailwind and Notion.
+- [mehdibha/folio](https://github.com/mehdibha/folio) - Make your personal website and blog with Nextjs 14, tailwind and Notion.
 
 
 ## License
