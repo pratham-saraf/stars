@@ -51,6 +51,7 @@
 
 ## Python 
 
+- [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) - 
 - [viraniaman94/sendenv](https://github.com/viraniaman94/sendenv) - 
 - [BobaZooba/xllm](https://github.com/BobaZooba/xllm) - 🦖 X—LLM: Cutting Edge & Easy LLM Finetuning
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
