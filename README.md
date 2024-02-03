@@ -17,7 +17,7 @@
 
 ## C++ 
 
-- [ashwina/StarPlat](https://github.com/ashwina/StarPlat) - 
+- [ashwinktpu/StarPlat](https://github.com/ashwinktpu/StarPlat) - 
 
 ## CSS 
 
